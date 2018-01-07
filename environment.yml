@@ -1,0 +1,4 @@
+name: csv-to-json
+dependencies:
+- python=2
+- flask
